@@ -7,6 +7,7 @@ body {
 }
 
 #gameCanvasContainer {
+    background-image:jogodetiiro
     display: flex;
     justify-content: center;
     align-items: center;
